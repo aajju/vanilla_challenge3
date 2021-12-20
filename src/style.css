@@ -1,0 +1,13 @@
+.input-number {
+  display: flex;
+  align-items: center;
+}
+
+.input-number input {
+  height: 15px;
+  margin: 0px 10px;
+}
+
+.hidden {
+  display: none;
+}
